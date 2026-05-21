@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amarillo-by-morning/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amarillo by Morning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarillo-by-morning/) |
+| **Get License** | [Music Rights & Licensing for Amarillo by Morning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarillo-by-morning/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you pull me close
+> A burning rhythm on an open road
+> I want your touch till the morning light
+> You are the craving in my blood tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
