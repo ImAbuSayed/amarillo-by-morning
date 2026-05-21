@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amarillo-by-morning/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Amarillo by Morning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarillo-by-morning/) |
+| **Get License** | [Official Music Licensing for Amarillo by Morning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarillo-by-morning/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ec638a372e297de3189fdbb296b282ce284a007f2b3eeb6eb3a572824e37945e` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

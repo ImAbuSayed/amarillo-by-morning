@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amarillo by Morning
+
+This log tracks the cryptographic history and versioning for the song **Amarillo by Morning** (amarillo-by-morning).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T03:21:15.921336 | `v1` | `ec638a372e297de3189fdbb296b282ce284a007f2b3eeb6eb3a572824e37945e` | `4d45229ee161c9caf29c0fc67e3c633811e13a49926655c3f1778fb525d3689b` | `2026-05-22_amarillo-by-morning-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
